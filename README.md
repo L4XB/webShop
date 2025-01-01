@@ -18,7 +18,7 @@ This webshop project is a collaborative effort by Reutlingen University students
   - [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/) 🅱️
 
 - **Backend:**
-  - [XAMP](www.apachefriends.org) 🚀
+  - [XAMPP](www.apachefriends.org) 🚀
   with
     - [MySQL](www.mysql.com) 🗄️
     - [Apache](apache.org) 🌐
